@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+aiohttp
+python-dotenv
+cryptography
+google-generativeai
+sqlalchemy
+requests
+schedule
